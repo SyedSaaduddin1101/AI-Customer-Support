@@ -1,0 +1,11 @@
+Refund Policy:
+Refunds are processed within 5–7 business days.
+
+Billing Issues:
+Double charges can occur due to network retries. Any extra charges will be reversed.
+
+Account Cancellation:
+Users can cancel anytime from the account settings page.
+
+Technical Issues:
+Please provide screenshots and steps to reproduce the issue.
